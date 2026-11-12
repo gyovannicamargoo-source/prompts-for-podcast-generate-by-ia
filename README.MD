@@ -67,7 +67,7 @@ O episódio foi desenvolvido seguindo quatro etapas principais:
 ## 💻 Tecnologias e ferramentas utilizadas
 
 - [ChatGPT](https://chatgpt.com/) — Desenvolvimento e aprimoramento do roteiro e dos prompts.
-- [Gemini](https://https://gemini.google.com/) — Criação de imagens utilizando Inteligência Artificial.
+- [Gemini](https://https://https://gemini.google.com/app?hl=pt-BR/) — Criação de imagens utilizando Inteligência Artificial.
 
 ---
 
