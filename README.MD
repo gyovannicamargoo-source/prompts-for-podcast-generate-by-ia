@@ -90,15 +90,14 @@ O desenvolvimento foi dividido em algumas etapas:
 prompts-for-podcast-generate-by-ia/
 │
 ├── assets/
-│   └── capa-central-do-absurdo.png
+│   └── oolharvaziodosuporte.jpg
 │
 ├── output/
-│   └── central-do-absurdo.mp3
+│   └── meajudaateajudar.mp3
 │
 ├── src/
 │   └── prompts/
-│       ├── prompt-chatgpt.txt
-│       └── prompt-midjourney.txt
+│       └── roteiro_podcast_me_ajuda_a_te_ajudar.md
 │
 └── README.MD
 ```
