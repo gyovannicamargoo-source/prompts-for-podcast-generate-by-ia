@@ -43,7 +43,7 @@ O projeto utiliza uma estrutura de roteiro organizada para proporcionar uma expe
 
 <div align="center">
   <audio
-    src="./output/central-do-absurdo.mp3"
+    src="./output/me_ajuda_a_te_ajudar.mp3"
     controls
     title="Me Ajuda a Te Ajudar - Episódio completo"
   >
