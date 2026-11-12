@@ -110,7 +110,7 @@ Os materiais utilizados durante o desenvolvimento estão organizados neste repos
 
 - **Roteiro:** conteúdo textual desenvolvido para o episódio.
 - **Prompts do ChatGPT:** instruções utilizadas para auxiliar na criação do conteúdo.
-- **Prompts do Midjourney:** instruções utilizadas na criação visual.
+- **Prompts do Gemini:** instruções utilizadas na criação visual.
 - **Áudio:** versão final do podcast.
 - **Capa:** identidade visual do projeto.
 
